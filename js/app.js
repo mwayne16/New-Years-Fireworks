@@ -372,7 +372,7 @@ function duckSprite() {
 
 function planeSprite() {
   this.x = innerWidth;
-  this.y = innerHeight / 5;
+  this.y = innerHeight / 6;
   this.dx = -5;
   this.dy = 0;
   this.width = 128;
